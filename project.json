@@ -217,27 +217,6 @@
                         "type": "Communication"
                     }
                 ]
-            },
-            {
-                "name": "Development Projects",
-                "description": "Various programming challenges and projects",
-                "projects": [
-                    {
-                        "name": "java_project",
-                        "lastModified": "2025-02-22",
-                        "type": "Java Development"
-                    },
-                    {
-                        "name": "makerz_challenge",
-                        "lastModified": "2025-02-17",
-                        "type": "Challenge Project"
-                    },
-                    {
-                        "name": "app_challenge",
-                        "lastModified": "2025-02-18",
-                        "type": "Development Challenge"
-                    }
-                ]
             }
         ],
         "statistics": {
